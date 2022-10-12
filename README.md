@@ -13,7 +13,7 @@
 
 <br/>
 
-![](https://github.com/brunosllz/Ignite-timer/blob/main/src/assets/Cover.png)
+![](https://github.com/brunosllz/ignite-lab-ds/blob/main/src/assets/Wallpaper%20-%201920x1080.png)
 
 ## [](https://github.com/brunosllz/Platform_lab#--sobre-o-projeto) 💻 Sobre o projeto
 
@@ -43,7 +43,7 @@ $ npm run dev ou yarn dev
 
 ## [](https://github.com/brunosllz/Platform_lab#--layout) 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1127351821076435124). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/PHXnoPfz4sK5yq34xXsOQO/Ignite-Lab-Design-System?node-id=0%3A1). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 ---
 
