@@ -13,7 +13,7 @@
 
 <br/>
 
-![](https://github.com/brunosllz/ignite-lab-ds/blob/main/src/assets/Wallpaper%20-%201920x1080.png)
+![](https://github.com/brunosllz/ignite-lab-ds/blob/main/src/assets/cover-github.png)
 
 ## [](https://github.com/brunosllz/ignite-lab-ds#--sobre-o-projeto) 💻 Sobre o projeto
 
