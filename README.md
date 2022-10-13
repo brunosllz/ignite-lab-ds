@@ -25,6 +25,7 @@ Projeto desenvolvido no evento Ignite Lab Design System da [Rockeseat](https://w
 
 - Documentar a aplicação
 - Visualizar os componentes e suas variações
+- Utilização dos componetes na construção de layouts
 
 ---
 
@@ -60,7 +61,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - StoryBook
 - Tailwind
 - Radix
-- GitHub Actions
+- Github Actions
 
 > Veja o arquivo [package.json](https://github.com/brunosllz/ignite-lab-ds/blob/main/package.json)
 ---
