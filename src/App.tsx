@@ -103,13 +103,13 @@ export function App() {
         <footer className="flex flex-col items-center gap-4">
           <Text
             asChild
-            classname="text-xs text-gray-400 underline"
+            classname="text-xs text-gray-400 hover:text-gray-200 underline"
           >
             <a href="#">Esqueceu sua senha?</a>
           </Text>
           <Text
             asChild
-            classname="text-xs text-gray-400 underline"
+            classname="text-xs text-gray-400 hover:text-gray-200 underline"
           >
             <a href="#">Não possui conta? Crie uma agora!</a>
           </Text>
