@@ -48,6 +48,12 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: 'Inter, sans-serif'
+      },
+      backgroundImage: {
+        'background-universe': 'url(./src/assets/background-universe.png)'
+      },
+      screens: {
+        'media-968': '968px'
       }
     },
   },
