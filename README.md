@@ -44,6 +44,11 @@ $ npm run dev ou yarn dev
 ## [](https://github.com/brunosllz/ignite-lab-dsb#--layout) 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/PHXnoPfz4sK5yq34xXsOQO/Ignite-Lab-Design-System?node-id=0%3A1). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+Caso queria visualizar os componentes deste Design System, pode acessar o StoryBook através [desse link](https://brunosllz.github.io/ignite-lab-ds/).
+
+Segue um exemplo de uma tela de login feita com os componentes do Design System.
+
+
 
 ---
 
@@ -61,5 +66,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## [](https://github.com/brunosllz/ignite-lab-ds#--milhas-a-mais) 🚀 Milhas a mais 
 
-- [ ] Em construção 🛠️
+- [x] Customização do layout
+- [x] Customização dos componentes
+- [x] Resposividade da aplicação
+
 
