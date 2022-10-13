@@ -48,7 +48,7 @@ Caso queria visualizar os componentes deste Design System, pode acessar o StoryB
 
 Segue um exemplo de uma tela de login feita com os componentes do Design System.
 
-
+![GIF](https://github.com/brunosllz/ignite-lab-ds/blob/main/src/assets/example-app.gif)
 
 ---
 
@@ -60,6 +60,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - StoryBook
 - Tailwind
 - Radix
+- GitHub Actions
 
 > Veja o arquivo [package.json](https://github.com/brunosllz/ignite-lab-ds/blob/main/package.json)
 ---
